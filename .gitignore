@@ -1,0 +1,5 @@
+.vscode
+*.o
+*.a
+minishell
+test/log.txt
